@@ -1,2 +1,4 @@
 ./misc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf filter=lfs diff=lfs merge=lfs -text
 ./misc/arduino_nano_pinout.jpg filter=lfs diff=lfs merge=lfs -text
+
+./firmware/usart/* linguist-vendored
